@@ -5,7 +5,8 @@ client = Client()
 
 app = Flask(__name__)
 
-to = "+13234924416"
+#to = "+13234924416"
+to = "+19173490168"
 from_ = "+17867892968"
 message_body = "Hello from Haseeb ur Rahman CS643 Fall 2017"
 
